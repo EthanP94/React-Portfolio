@@ -12,7 +12,7 @@ export default function Work() {
           GitHub Repository
         </a>
         <a href="https://github.com/EthanP94/Home-Improvement">
-          <img id="HI" src={require("../../Images/ScreenshotHI.png")} />
+          <img alt="HI" src={require("../../Images/ScreenshotHI.png")} />
           <div className="caption">
             Home Improvement
             <br />
@@ -28,7 +28,7 @@ export default function Work() {
           GitHub Repository
         </a>
         <a href="https://immense-cliffs-14605.herokuapp.com/">
-          <img id="TRB" src={require("../../Images/ScreenshotTRB.png")} />
+          <img alt="TRB" src={require("../../Images/ScreenshotTRB.png")} />
           <div className="caption">
             The Recipe Box
             <br />
@@ -44,7 +44,7 @@ export default function Work() {
           GitHub Repository
         </a>
         <a href="https://quiet-shelf-22355.herokuapp.com/">
-          <img id="TC" src={require("../../Images/ScreenshotTC.png")} />
+          <img alt="TC" src={require("../../Images/ScreenshotTC.png")} />
           <div className="caption">
             Tech Connection
             <br />
@@ -60,7 +60,7 @@ export default function Work() {
           GitHub Repository
         </a>
         <a href="https://github.com/EthanP94/The-Grand-Line">
-          <img id="TCZ" src={require("../../Images/ScreenshotTGLA.jpg")} />
+          <img alt="TCZ" src={require("../../Images/ScreenshotTGLA.png")} />
           <div className="caption">
             The Grand Line Anime
             <br />
@@ -76,7 +76,7 @@ export default function Work() {
           GitHub Repository
         </a>
         <a href="https://warm-wildwood-26018.herokuapp.com/">
-          <img id="DP" src={require("../../Images/ScreenshotNK.png")} />
+          <img alt="DP" src={require("../../Images/ScreenshotNK.png")} />
           <div className="caption">
             Note Keeper
             <br />

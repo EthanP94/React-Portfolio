@@ -10,16 +10,18 @@
   
   * {
     font-family: var(--font);
+    /* background-image: url("../Images/background.png"); */
   }
+
   
-  .hero {
+  /* .hero {
     margin: 0;
     height: 100%;
     width: 100%;
     background-size: cover;
     background-position: center;
     z-index: 1;
-  }
+  } */
   
   h1 {
     font-size: 200%;
@@ -32,7 +34,7 @@
   }
   
   h1:hover {
-    color: var(--red);
+    color: var(--blue);
     text-decoration: none;
     text-shadow: 4px 4px 4px var(--gray);
   }
@@ -104,7 +106,7 @@
   
   .work a:hover div {
     background-color: var(--white);
-    color: var(--red);
+    color: var(--blue);
   }
   
   .work img {
@@ -145,9 +147,9 @@
       margin-bottom: 20px;
     }
   
-    .hero {
+    /* .hero {
       height: 850px;
-    }
+    } */
   }
   
   @media screen and (max-width: 768px) {

@@ -1,5 +1,5 @@
 import React from "react";
-import Portfolio from "./componets/Portfolio";
+import Portfolio from "./components/Portfolio";
 
 const App = () => <Portfolio />;
 
