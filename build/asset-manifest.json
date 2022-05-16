@@ -1,29 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.ac545bac.chunk.css",
-    "main.js": "/static/js/main.c151d14c.chunk.js",
-    "main.js.map": "/static/js/main.c151d14c.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.9acd6965.js",
-    "runtime-main.js.map": "/static/js/runtime-main.9acd6965.js.map",
-    "static/css/2.0a9ec390.chunk.css": "/static/css/2.0a9ec390.chunk.css",
-    "static/js/2.e816714a.chunk.js": "/static/js/2.e816714a.chunk.js",
-    "static/js/2.e816714a.chunk.js.map": "/static/js/2.e816714a.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.0a9ec390.chunk.css.map": "/static/css/2.0a9ec390.chunk.css.map",
-    "static/css/main.ac545bac.chunk.css.map": "/static/css/main.ac545bac.chunk.css.map",
-    "static/js/2.e816714a.chunk.js.LICENSE.txt": "/static/js/2.e816714a.chunk.js.LICENSE.txt",
-    "static/media/ScreenshotHI.png": "/static/media/ScreenshotHI.39c77bae.png",
-    "static/media/ScreenshotNK.png": "/static/media/ScreenshotNK.40d04547.png",
-    "static/media/ScreenshotTC.png": "/static/media/ScreenshotTC.b2c9bb87.png",
-    "static/media/ScreenshotTGLA.png": "/static/media/ScreenshotTGLA.fad65be9.png",
-    "static/media/ScreenshotTRB.png": "/static/media/ScreenshotTRB.392d9a4f.png",
-    "static/media/background.png": "/static/media/background.e952b2ac.png"
+    "main.css": "/React-Portfolio/static/css/main.da9772cc.css",
+    "main.js": "/React-Portfolio/static/js/main.1483001a.js",
+    "static/media/background.png": "/React-Portfolio/static/media/background.e952b2ac6dd3684c56e0.png",
+    "static/media/ScreenshotTGLA.png": "/React-Portfolio/static/media/ScreenshotTGLA.fad65be92285e4d8c2c0.png",
+    "static/media/ScreenshotTRB.png": "/React-Portfolio/static/media/ScreenshotTRB.392d9a4f67af59901d50.png",
+    "static/media/ScreenshotTC.png": "/React-Portfolio/static/media/ScreenshotTC.b2c9bb87b14593493b36.png",
+    "static/media/ScreenshotHI.png": "/React-Portfolio/static/media/ScreenshotHI.39c77baec0810b54d8a6.png",
+    "static/media/ScreenshotNK.png": "/React-Portfolio/static/media/ScreenshotNK.40d045475dab3ef41440.png",
+    "index.html": "/React-Portfolio/index.html",
+    "main.da9772cc.css.map": "/React-Portfolio/static/css/main.da9772cc.css.map",
+    "main.1483001a.js.map": "/React-Portfolio/static/js/main.1483001a.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.9acd6965.js",
-    "static/css/2.0a9ec390.chunk.css",
-    "static/js/2.e816714a.chunk.js",
-    "static/css/main.ac545bac.chunk.css",
-    "static/js/main.c151d14c.chunk.js"
+    "static/css/main.da9772cc.css",
+    "static/js/main.1483001a.js"
   ]
 }
