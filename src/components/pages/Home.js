@@ -15,6 +15,7 @@ export default function Home() {
         alt={"One Piece"}
         className="background"
       />
+      
     </div>
   );
 }
