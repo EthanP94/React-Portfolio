@@ -18,7 +18,7 @@
   ## Installation 
   None
   ## Usage 
-  view thwe GH Pages
+  view with GH Pages
   ## License 
   This project is license under MIT
   ## Contributing 
