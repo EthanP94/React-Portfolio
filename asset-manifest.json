@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Transition-REACTion/static/css/main.da9772cc.css",
-    "main.js": "/Transition-REACTion/static/js/main.f7fbf5d9.js",
-    "static/media/background.png": "/Transition-REACTion/static/media/background.e952b2ac6dd3684c56e0.png",
-    "static/media/ScreenshotTGLA.png": "/Transition-REACTion/static/media/ScreenshotTGLA.fad65be92285e4d8c2c0.png",
-    "static/media/ScreenshotTRB.png": "/Transition-REACTion/static/media/ScreenshotTRB.392d9a4f67af59901d50.png",
-    "static/media/ScreenshotTC.png": "/Transition-REACTion/static/media/ScreenshotTC.b2c9bb87b14593493b36.png",
-    "static/media/ScreenshotHI.png": "/Transition-REACTion/static/media/ScreenshotHI.39c77baec0810b54d8a6.png",
-    "static/media/ScreenshotNK.png": "/Transition-REACTion/static/media/ScreenshotNK.40d045475dab3ef41440.png",
-    "index.html": "/Transition-REACTion/index.html",
-    "main.da9772cc.css.map": "/Transition-REACTion/static/css/main.da9772cc.css.map",
-    "main.f7fbf5d9.js.map": "/Transition-REACTion/static/js/main.f7fbf5d9.js.map"
+    "main.css": "/Transitional-REACTion/static/css/main.da9772cc.css",
+    "main.js": "/Transitional-REACTion/static/js/main.317c3a5c.js",
+    "static/media/background.png": "/Transitional-REACTion/static/media/background.e952b2ac6dd3684c56e0.png",
+    "static/media/ScreenshotTGLA.png": "/Transitional-REACTion/static/media/ScreenshotTGLA.fad65be92285e4d8c2c0.png",
+    "static/media/ScreenshotTRB.png": "/Transitional-REACTion/static/media/ScreenshotTRB.392d9a4f67af59901d50.png",
+    "static/media/ScreenshotTC.png": "/Transitional-REACTion/static/media/ScreenshotTC.b2c9bb87b14593493b36.png",
+    "static/media/ScreenshotHI.png": "/Transitional-REACTion/static/media/ScreenshotHI.39c77baec0810b54d8a6.png",
+    "static/media/ScreenshotNK.png": "/Transitional-REACTion/static/media/ScreenshotNK.40d045475dab3ef41440.png",
+    "index.html": "/Transitional-REACTion/index.html",
+    "main.da9772cc.css.map": "/Transitional-REACTion/static/css/main.da9772cc.css.map",
+    "main.317c3a5c.js.map": "/Transitional-REACTion/static/js/main.317c3a5c.js.map"
   },
   "entrypoints": [
     "static/css/main.da9772cc.css",
-    "static/js/main.f7fbf5d9.js"
+    "static/js/main.317c3a5c.js"
   ]
 }
