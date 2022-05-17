@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.da9772cc.css",
-    "main.js": "/my-app/static/js/main.fd53915e.js",
-    "static/media/background.png": "/my-app/static/media/background.e952b2ac6dd3684c56e0.png",
-    "static/media/ScreenshotTGLA.png": "/my-app/static/media/ScreenshotTGLA.fad65be92285e4d8c2c0.png",
-    "static/media/ScreenshotTRB.png": "/my-app/static/media/ScreenshotTRB.392d9a4f67af59901d50.png",
-    "static/media/ScreenshotTC.png": "/my-app/static/media/ScreenshotTC.b2c9bb87b14593493b36.png",
-    "static/media/ScreenshotHI.png": "/my-app/static/media/ScreenshotHI.39c77baec0810b54d8a6.png",
-    "static/media/ScreenshotNK.png": "/my-app/static/media/ScreenshotNK.40d045475dab3ef41440.png",
-    "index.html": "/my-app/index.html",
-    "main.da9772cc.css.map": "/my-app/static/css/main.da9772cc.css.map",
-    "main.fd53915e.js.map": "/my-app/static/js/main.fd53915e.js.map"
+    "main.css": "/Transitional-REACTion/static/css/main.da9772cc.css",
+    "main.js": "/Transitional-REACTion/static/js/main.317c3a5c.js",
+    "static/media/background.png": "/Transitional-REACTion/static/media/background.e952b2ac6dd3684c56e0.png",
+    "static/media/ScreenshotTGLA.png": "/Transitional-REACTion/static/media/ScreenshotTGLA.fad65be92285e4d8c2c0.png",
+    "static/media/ScreenshotTRB.png": "/Transitional-REACTion/static/media/ScreenshotTRB.392d9a4f67af59901d50.png",
+    "static/media/ScreenshotTC.png": "/Transitional-REACTion/static/media/ScreenshotTC.b2c9bb87b14593493b36.png",
+    "static/media/ScreenshotHI.png": "/Transitional-REACTion/static/media/ScreenshotHI.39c77baec0810b54d8a6.png",
+    "static/media/ScreenshotNK.png": "/Transitional-REACTion/static/media/ScreenshotNK.40d045475dab3ef41440.png",
+    "index.html": "/Transitional-REACTion/index.html",
+    "main.da9772cc.css.map": "/Transitional-REACTion/static/css/main.da9772cc.css.map",
+    "main.317c3a5c.js.map": "/Transitional-REACTion/static/js/main.317c3a5c.js.map"
   },
   "entrypoints": [
     "static/css/main.da9772cc.css",
-    "static/js/main.fd53915e.js"
+    "static/js/main.317c3a5c.js"
   ]
 }
